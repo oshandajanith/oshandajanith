@@ -31,9 +31,20 @@
 
 <div align="center">
 
-<a href="https://github.com/oshandajanith/">
-  <img src="https://github-readme-stats.vercel.app/api?username=oshandajanith&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oshandajanith&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="oshandajanith"/>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oshandajanith&show_icons=true&theme=dark&locale=en&layout=compact" alt="oshandajanith" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=oshandajanith&show_icons=true&theme=dark&locale=en" alt="oshandajanith" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oshandajanith&theme=dark" alt="oshandajanith" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
 
 </a>
 </div>
