@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm oshanda janith malshan</h1>
-<h3 align="center">A passionate full stack-developer, Mobile app developer from sir lanka</h3>
+<h3 align="center">A passionate full stack-developer, Mobile app developer from sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshandajanith&label=Profile%20views&color=0e75b6&style=flat" alt="oshandajanith" /> </p>
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oshandajanith&label=Profile%20views&color=0e75b6&style=flat" alt="oshandajanith" /> </p>
+
 
 - 🌱 I’m currently learning **react native**
 
